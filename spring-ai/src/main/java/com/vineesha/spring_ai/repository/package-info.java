@@ -1,0 +1,1 @@
+package com.vineesha.spring_ai.repository;
